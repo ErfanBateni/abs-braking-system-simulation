@@ -1,7 +1,3 @@
-# abs-braking-system-simulation
-MATLAB/Simulink simulation of an Anti-lock Braking System (ABS)
-
-
 # ABS (Anti-lock Braking System) Modeling and Simulation in MATLAB/Simulink
 
 Comprehensive simulation and analytical report of an Anti-lock Braking System (ABS) developed as part of the Automotive Electronics course at Sharif University of Technology.
